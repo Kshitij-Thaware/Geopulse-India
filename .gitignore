@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 # Virtual Environments
 
 project1/
+=======
+
+.env
+
+.vscode/
+>>>>>>> 43f6d64a7e479a6ecab93ffda98f9f3c51098838
